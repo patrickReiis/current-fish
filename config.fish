@@ -6,6 +6,8 @@
 
 
 function fish_prompt
+      set_color cyan
+      echo '----------------- START'
       set_color purple
       date
       set_color green
